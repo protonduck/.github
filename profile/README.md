@@ -6,7 +6,9 @@
     <br>
 </p>
 
-Hello! This is ProtonDuck team. We have created and maintaining the modern intuitive and lightweight open source bookmark manager [ProtonDuck](https://github.com/protonduck) and related packages.
+## Welcome
+
+Hello! This is ProtonDuck team. We have created and maintaining the modern intuitive and lightweight open source bookmark manager [ProtonDuck](https://protonduck.com) and related packages.
 
 Current efforts are:
 
