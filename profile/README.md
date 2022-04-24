@@ -76,5 +76,5 @@ https://github.com/demisang
 
 Current efforts are:
 
-- [Bookmarks Backend/API](https://github.com/protonduck/bookmarks)
-- [Bookmarks Frontend](https://github.com/protonduck/bookmarks-frontend)
+- [Backend/API](https://github.com/protonduck/backend)
+- [Frontend](https://github.com/protonduck/frontend)
