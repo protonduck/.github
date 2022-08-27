@@ -62,10 +62,6 @@ Founder, Frontend developer
 
 https://github.com/dignityinside
 
-### Jaroslav Unterberg
-
-Co-Founder, Marketing
-
 ### Ivan Orlov
 
 Backend developer
